@@ -1,6 +1,4 @@
-# ButtonTest
-
-A Particle project named ButtonTest
+# Pomodoro Timer
 
 ## Welcome to your project!
 
